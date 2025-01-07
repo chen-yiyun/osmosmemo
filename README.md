@@ -1,3 +1,4 @@
+- [自用 Firefox 定制版【CopyCat Firefox】分享 目前版本：Firefox 128ESR - Ryan 快快跑 - 建站，倒闭，建站，倒闭，无限反复循环，这种无限发展过程，在形式上是循环往复，在实质上是前进上升](https://kkp.disk.st/firefox-ryan-personal-customization.html#cl-6) #🦊firefox
 - [benzBrake/FirefoxCustomize: Ryan 收集的 Firefox 个性化相关资源](https://github.com/benzBrake/FirefoxCustomize) #🦊firefox
 
 # About
